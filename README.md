@@ -15,5 +15,4 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow of the Website: 
 
-Home Page > Create Users > Transfer Money > 
-> View Transaction History.
+Home Page > Create Users > Transfer Money > View Transaction History.
